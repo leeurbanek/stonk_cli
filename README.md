@@ -8,7 +8,7 @@ Comand line interface for downloading stock market charts, heatmaps, and OHLC pr
 
 To install stonk_cli, follow these steps:
 
-1. Clone the repository: **`git clone https://github.com/rlcloudstorage/stonk_cli`**
+1. Clone the repository: **`git clone https://github.com/lucloudstorage51918/stonk_cli`**
 2. Navigate to the project directory: **`cd stonk_cli`**
 3. Create virtual environmet **`python3.10 -m venv <env name>`**
 4. Install the project: **`pip install -e .`**
